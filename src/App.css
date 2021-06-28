@@ -1,0 +1,13 @@
+@import "//cdn.jsdelivr.net/npm/sweetalert2@11";
+body{
+    margin: 10px;
+    background-color: #00bfff96;
+}
+.App .app-name{
+    width: 68%;
+    margin: auto;
+    font-size: 35px;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: #1C6EA487;
+}

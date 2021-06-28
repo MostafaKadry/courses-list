@@ -1,0 +1,50 @@
+.listitems{
+    border: 2px solid black;
+    margin: 10px auto;
+    width: 70%;
+}
+.list-items-head {
+     border: 1px solid #1C6EA4;
+      background-color: #1C6EA4;
+      width: 100%;
+      text-align: center;
+    border-collapse: collapse;
+    font-size: 30px;
+    
+}
+.list-items-head span{
+    border: 1px solid #AAAAAA;
+    width: 31.1%;
+    display: inline-block;
+    height: 32px;
+    padding: 9px;
+    line-height: 23px;
+}
+.default-items{
+    text-align: center;
+}
+.default-items .default-items-devs{
+    display: block;
+}
+.default-items-devs span{
+     border: 1px solid #AAAAAA;
+    width: 31.1%;
+    display: inline-block;
+    height: 32px;
+    padding: 9px;
+    line-height: 23px;
+    font-size: larger;
+}
+.close{
+    cursor: pointer
+}
+
+
+
+
+
+
+
+
+
+
